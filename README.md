@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Joe Ward]
+## Hi there! 👋 I'm Joe Ward
 
 I'm a university student with a strong passion for development and a goal to make an impact in the tech world. Currently focused on Mobile App Development with Flutter and
 Full Stack Web Development wth Node.js, Express.js and React.js, 
