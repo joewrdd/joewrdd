@@ -143,6 +143,10 @@
         <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45" alt="Canva" />
       <br>Canva
     </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
   </tr>
 </table>
 </div>
@@ -169,6 +173,6 @@
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact" alt="joewrdd Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joewrdd" alt="joewrdd GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joewrdd Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joewrdd&theme=tokyonight" alt="joewrdd GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
