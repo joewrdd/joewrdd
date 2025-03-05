@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"></h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Joe Ward</samp></h2>
@@ -171,7 +173,8 @@
 </table>
 </div>
 
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joewrdd Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+<h3 align="center"><samp style="font-family: 'Space Grotesk', sans-serif;">📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&bg_color=30,6E45E2,88D3CE&title_color=fff&text_color=fff" alt="joewrdd Top Languages" width="45%" height="200" style="object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joewrdd&show_icons=true&bg_color=30,6E45E2,88D3CE&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="joewrdd Github Stats" width="45%" height="200" style="object-fit: cover;"/>
 </div>
