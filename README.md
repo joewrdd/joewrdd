@@ -20,11 +20,11 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="40" height="40" />
       <br>Flutter
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="40" height="40" />
       <br>Dart
     </td>
     <td align="center" width="100">
@@ -32,7 +32,7 @@
       <br>BLoC
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="40" height="40" />
       <br>Riverpod
     </td>
     <td align="center" width="100">
@@ -54,7 +54,7 @@
       <br>MySQL
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" width="45" height="45" alt="Supabase" />
+        <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
       <br>Supabase
     </td>
     <td align="center" width="100">
@@ -62,7 +62,7 @@
       <br>NodeJS
     </td>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
       <br>JavaScript
     </td>
     <td align="center" width="100">
@@ -105,13 +105,43 @@
         <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
-      <br>Android Studio
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJS" />
+      <br>NextJS
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="iOS" />
-      <br>iOS
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
+      <br>Android 
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="IOS" />
+      <br>Apple
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://cdn.worldvectorlogo.com/logos/stripe-2.svg" width="45" height="45" alt="Stripe" />
+      <br>Stripe
+    </td>
+    <td align="center" width="100">
+        <img src="https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png" width="45" height="45" alt="Gemini" style="border-radius: 10px;" />
+      <br>Gemini
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
+      <br>Windows
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45" alt="Canva" />
+      <br>Canva
     </td>
   </tr>
 </table>
@@ -122,15 +152,15 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
       <br>LinkedIn
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45" alt="Twitter" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="38" height="38" alt="Twitter" />
       <br>Twitter
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45" height="45" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
       <br>Instagram
     </td>
   </tr>
