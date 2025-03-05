@@ -174,5 +174,5 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joewrdd Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joewrdd&theme=tokyonight" alt="joewrdd GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+
 </div>
