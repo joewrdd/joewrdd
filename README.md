@@ -172,7 +172,6 @@
 </div>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joewrdd Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-
 </div>
