@@ -128,7 +128,7 @@
       <br>Stripe
     </td>
     <td align="center" width="100">
-        <img src="https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png" width="45" height="45" alt="Gemini" style="border-radius: 10px;" />
+        <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="45" height="45" alt="Gemini" />
       <br>Gemini
     </td>
     <td align="center" width="100">
@@ -156,7 +156,7 @@
       <br>LinkedIn
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="38" height="38" alt="Twitter" />
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
       <br>Twitter
     </td>
     <td align="center" width="100">
