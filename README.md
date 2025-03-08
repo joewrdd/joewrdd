@@ -30,7 +30,7 @@
       <br>Dart
     </td>
     <td align="center" width="100">
-        <img src="https://api.intopros.com/uploads/2023-03/unauth-1679399215800-5304be64bb8949f0b18e71b5f94488c0.png" alt="icon" width="50" height="50" />
+        <img src="https://api.intopros.com/uploads/2023-03/unauth-1679399215800-5304be64bb8949f0b18e71b5f94488c0.png" alt="icon" width="60" height="45" />
       <br>GetX
     </td>
     <td align="center" width="100">
