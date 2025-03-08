@@ -30,8 +30,8 @@
       <br>Dart
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="45" />
-      <br>BLoC
+        <img src="https://api.intopros.com/uploads/2023-03/unauth-1679399215800-5304be64bb8949f0b18e71b5f94488c0.png" alt="icon" width="50" height="50" />
+      <br>GetX
     </td>
     <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="40" height="40" />
