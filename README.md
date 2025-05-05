@@ -38,7 +38,7 @@
       <br>Riverpod
     </td>
     <td align="center" width="100">
-      <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/firebase-logo.svg" alt="Firebase" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" />
       <br>Firebase
     </td>
     <td align="center" width="100">
