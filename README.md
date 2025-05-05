@@ -38,7 +38,7 @@
       <br>Riverpod
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
+      <img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" />
       <br>Firebase
     </td>
     <td align="center" width="100">
