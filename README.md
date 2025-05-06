@@ -64,7 +64,7 @@
       <br>NodeJS
     </td>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="50" height="50" />
       <br>JavaScript
     </td>
     <td align="center" width="100">
