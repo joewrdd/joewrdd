@@ -56,8 +56,8 @@
       <br>MySQL
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
-      <br>Supabase
+        <img src="https://skillicons.dev/icons?i=nest" width="45" height="45" alt="Supabase" />
+      <br>NestJS
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
