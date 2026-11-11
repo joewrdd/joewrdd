@@ -1,180 +1,56 @@
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://raw.githubusercontent.com/mupezzuol/mupezzuol/master/assets/earth.gif" width="22px" height="22px" alt=""></h1>
 
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"></h1>
+<div align="center">
 
-<h2 align="center"><samp>Hi 👋 I'm Joe Ward</samp></h2>
-<h3 align="center"><samp>A Full Stack Flutter Developer</samp></h3>
+<img src="assets/hero.svg" width="100%" alt="Crafting Digital Experiences. Joe Ward, Mobile Engineer. Open to freelance.">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joewrdd&label=Profile%20views&color=0e75b6&style=flat" alt="joewrdd" /> </p>
+<br><br>
 
-<div style="margin-bottom: 200px;"></div>
+<img src="assets/titles/about.svg" width="100%" alt="About Me">
+<img src="assets/about.svg" width="100%" alt="Hi, I'm Joe Ward, a Full Stack Flutter Developer building production-ready Flutter apps with clean architecture, comprehensive testing and smooth animations. Flutter Expert, Clean Architecture, Full Stack, Open to Freelance.">
 
-<samp>- 🎓 Computer Science graduate passionate about mobile development</samp>
+<br><br>
 
-<samp>- 📱 Flutter enthusiast: Building efficient, scalable, and user-friendly applications</samp>
+<img src="assets/titles/hotreload.svg" width="100%" alt="Hot Reload">
+<img src="assets/hot-reload.svg" width="100%" alt="A Dart editor beside an iPhone: retyping the home widget and hot reloading swaps between real screens of Zuvo, SurgeX, Jukyo Mall and Plain Living.">
 
-<samp>- 🚀 Currently working on enhancing my skills towards becoming a senior mobile developer</samp>
+<br><br>
 
-<samp>- 💡 Love learning new technologies and implementing innovative solutions</samp>
+<img src="assets/titles/skills.svg" width="100%" alt="My Skills">
+<img src="assets/skills-orbit.svg" width="100%" alt="Flutter at the core. Mobile: Dart, GetX, Android, iOS, Flame, Hive. Backend and data: Firebase, Supabase, FastAPI, NestJS, Node.js, PostgreSQL, Redis, MongoDB, GraphQL, Python. AI, web and tools: Gemini, Claude, Gemma, React, Next.js, TypeScript, Tailwind, Figma, Docker, GitHub, Vercel, Google Cloud.">
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="40" height="40" />
-      <br>Flutter
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="40" height="40" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
-        <img src="https://api.intopros.com/uploads/2023-03/unauth-1679399215800-5304be64bb8949f0b18e71b5f94488c0.png" alt="icon" width="60" height="45" />
-      <br>GetX
-    </td>
-    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="40" height="40" />
-      <br>Riverpod
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nest" width="45" height="45" alt="Supabase" />
-      <br>NestJS
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
-      <br>GitHub
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJS" />
-      <br>NextJS
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
-      <br>Android 
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="IOS" />
-      <br>Apple
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/stripe-2.svg" width="45" height="45" alt="Stripe" />
-      <br>Stripe
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="45" height="45" alt="Gemini" />
-      <br>Gemini
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="45" height="45" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45" height="45" alt="Canva" />
-      <br>Canva
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-</table>
-</div>
+<br><br>
 
-<h3 align="center"><samp>Connect With Me</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-      <br>LinkedIn
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
-      <br>Twitter
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
-      <br>Instagram
-    </td>
-  </tr>
-</table>
-</div>
+<img src="assets/titles/projects.svg" width="100%" alt="My Projects">
 
-<h3 align="center"><samp style="font-family: 'Space Grotesk', sans-serif;">📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joewrdd&show_icons=true&locale=en&layout=compact&bg_color=30,6E45E2,88D3CE&title_color=fff&text_color=fff" alt="joewrdd Top Languages" width="45%" height="200" style="object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=joewrdd&show_icons=true&bg_color=30,6E45E2,88D3CE&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="joewrdd Github Stats" width="45%" height="200" style="object-fit: cover;"/>
+<a href="https://github.com/joewrdd/MaikaDog"><img src="assets/projects/maika.svg" width="49%" alt="Maika: open source macOS desk companion for Claude Code sessions"></a>
+<a href="https://jwardportfolio.vercel.app/#projects"><img src="assets/projects/zuvo.svg" width="49%" alt="Zuvo: social lifestyle platform with an AI companion"></a>
+<a href="https://youtu.be/W7Co15OOIC0"><img src="assets/projects/plainliving.svg" width="49%" alt="Plain Living: minimalist lifestyle app"></a>
+<a href="https://youtube.com/shorts/qZYBXaDlDfE"><img src="assets/projects/wrddgemma.svg" width="49%" alt="WRDD Gemma: AI assistant on Google's Gemma"></a>
+<a href="https://jwardportfolio.vercel.app/#projects"><img src="assets/projects/foundry.svg" width="49%" alt="Foundry: production Flutter starter generator"></a>
+<a href="https://youtube.com/shorts/kTMkjgB8FL8"><img src="assets/projects/jukyomall.svg" width="49%" alt="Jukyo Mall: e-commerce app with integrated payments"></a>
+
+<br><br>
+
+<img src="assets/titles/github.svg" width="100%" alt="GitHub Activity">
+<img src="assets/github-activity.svg" width="100%" alt="Repositories, contributions, stars and followers, refreshed daily">
+<img src="assets/contributions.svg" width="100%" alt="Contribution activity over the last year">
+
+<br><br>
+
+<img src="assets/titles/contact.svg" width="100%" alt="Get In Touch. Open to freelance projects.">
+
+<a href="https://jwardportfolio.vercel.app"><img src="assets/buttons/portfolio.svg" height="44" alt="Portfolio"></a>
+<a href="https://calendly.com/joewrdd"><img src="assets/buttons/call.svg" height="44" alt="Book a call"></a>
+<a href="https://www.linkedin.com/in/joe-ward-504718357/"><img src="assets/buttons/linkedin.svg" height="44" alt="LinkedIn"></a>
+<a href="https://x.com/joewrdd"><img src="assets/buttons/x.svg" height="44" alt="X"></a>
+<a href="https://www.instagram.com/joewrdd"><img src="assets/buttons/instagram.svg" height="44" alt="Instagram"></a>
+<a href="mailto:wrddio@hotmail.com"><img src="assets/buttons/email.svg" height="44" alt="Email"></a>
+
+<br><br>
+
+<img src="assets/footer.svg" width="100%" alt="HEAD: still shipping. The next release is in progress.">
+
+<img src="https://komarev.com/ghpvc/?username=joewrdd&label=Profile%20views&color=5994eb&style=flat-square" alt="Profile views">
+
 </div>
